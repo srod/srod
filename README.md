@@ -14,3 +14,21 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+```json
+{
+  "name": "Rodolphe Stoclin", 
+  "role": "Front End Developer",
+  "location": "Paris 🇫🇷",
+  "languages": ["fr_FR", "en_US"],
+  "skills": ["JavaScript", "TypeScript", "CSS", "HTML"],
+  "frameworks": ["React", "Next.js", "Angular"],
+  "hyped": ["PNPM", "Qwik", "Next.js 13"]
+}
+```
+
+## Links
+
+- **Website:** https://www.2clics.net
+- **Twitter:** [@srod](https://twitter.com/srod)
+- **LinkedIn:** https://www.linkedin.com/in/rstoclin/
