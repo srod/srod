@@ -22,13 +22,13 @@ Here are some ideas to get you started:
   "location": "Paris 🇫🇷",
   "languages": ["fr_FR", "en_US"],
   "skills": ["JavaScript", "TypeScript", "CSS", "HTML"],
-  "frameworks": ["React", "Next.js", "Angular"],
-  "hyped": ["PNPM", "Qwik", "Next.js 13"]
+  "frameworks": ["React", "Remix", "Next.js"],
+  "hyped": ["Bun", "Biome"]
 }
 ```
 
 ## Links
 
 - **Website:** https://www.2clics.net
-- **Twitter:** [@srod](https://twitter.com/srod)
+- **Twitter:** [@srod](https://x.com/srod)
 - **LinkedIn:** https://www.linkedin.com/in/rstoclin/
